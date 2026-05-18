@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "87f773f7870b515e",
+        "id": "f5613f01b8ea7045",
         "type": "tabs",
         "children": [
           {
-            "id": "52e0b2f6fc73e4bd",
+            "id": "d924e31156bdab84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gtest/Note.md",
+                "file": "Music/CAGED Chords.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "CAGED Chords"
+            }
+          },
+          {
+            "id": "5959af5caf66f4bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Architecture/Clean Architecture/Business Rules/Entity vs. Use Case in an Embedded PID.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entity vs. Use Case in an Embedded PID"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.5
   },
   "right": {
     "id": "8a061b600ba668d0",
@@ -164,6 +179,18 @@
               "icon": "lucide-list",
               "title": "Outline of Software Architecture Pattern vs Design Pattern"
             }
+          },
+          {
+            "id": "a9bfa1060695a36c",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Software Architecture/Mental model.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ]
       }
@@ -180,19 +207,54 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "52e0b2f6fc73e4bd",
+  "active": "5959af5caf66f4bc",
   "lastOpenFiles": [
-    "Gtest/Untitled.md",
-    "Gtest/RoadMap.md",
-    "Gtest/Note.md",
-    "Temp/Roadmap.md",
-    "Gtest",
-    "Software Architecture Layers — SA Mental Model.md",
-    "Temp",
-    "Software Architecture Pattern vs Design Pattern.md",
-    "Mental model.md"
+    "Software Architecture/Clean Architecture/Business Rules/Entity vs. Use Case in Embedded Systems.md",
+    "Software Architecture/Clean Architecture/Business Rules/Entity vs. Use Case in an Embedded PID.md",
+    "Software Architecture/Clean Architecture/What Is Architecture.md",
+    "Software Architecture/Development.md",
+    "Software Architecture/Design Patterns vs Architecture Patterns.md",
+    "Software Architecture/Decorator.md",
+    "Software Architecture/Decoupling.md",
+    "Software Architecture/Factory.md",
+    "Software Architecture/Liskov Substitution Principle (LSP).md",
+    "Software Architecture/Observer.md",
+    "Software Architecture/Repository.md",
+    "Software Architecture/Command.md",
+    "Software Architecture/Clean Architecture/Business Rules/Untitled",
+    "Use Case.md",
+    "Software Architecture/Clean Architecture/Business Rules/Business Rules.md",
+    "Software Architecture/Screaming Architecture.md",
+    "Entities.md",
+    "Software Architecture/Clean Architecture/Policy and Level/Policy and Level.md",
+    "Software Architecture/Clean Architecture/Business Rules",
+    "Software Architecture/Clean Architecture/Boundaries/Boundary Anatomy.md",
+    "Software Architecture/Clean Architecture/Policy and Level",
+    "Music/E Major.md",
+    "Music/Am.md",
+    "Music/Barre Chords.md",
+    "Music/Image/Pasted image 20260517211019.png",
+    "Music/CAGED Chords.md",
+    "Music/Minor Scale.md",
+    "Music/Music Theory.md",
+    "Music/Image",
+    "Music/Untitled.md",
+    "Pasted image 20260517210923.png",
+    "Pasted image 20260517210941.png",
+    "English/Natural Conversational Upgrades 2.md",
+    "Music",
+    "Pyside/tick.png",
+    "Software Architecture/Clean Architecture/Boundaries",
+    "Software Architecture/Clean Architecture/Independence",
+    "Software Architecture/Clean Architecture",
+    "CICD_APP/Level_2",
+    "CICD_APP/Level_1",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }

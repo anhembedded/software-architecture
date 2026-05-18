@@ -1,3 +1,6 @@
 {
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "rightToLeft": false
 }

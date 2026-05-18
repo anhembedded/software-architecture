@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Things"
+  "cssTheme": "Obsidian Nord",
+  "baseFontSizeAction": true,
+  "baseFontSize": 17
 }
