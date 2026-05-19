@@ -64,7 +64,7 @@ class SubmitLoanResponse:
     rejection_reason: Optional[str] = None
 ```
 
-These models are plain dataclasses. They do **not** inherit from any framework class. They know nothing about HTTP, JSON, or databases.
+These models are plain data classes. They do **not** inherit from any framework class. They know nothing about HTTP, JSON, or databases.
 
 ---
 

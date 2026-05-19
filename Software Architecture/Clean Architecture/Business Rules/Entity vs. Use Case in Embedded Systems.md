@@ -31,8 +31,8 @@ from dataclasses import dataclass
 
 @dataclass(frozen=True)
 class HysteresisConfig:
-    on_threshold_below: float    # turn heater ON when temp drops this far below setpoint
-    off_threshold_above: float   # turn heater OFF when temp rises this far above setpoint
+    on_threshold_below: float
+    off_threshold_above: float
 
 class ThermostatController:
     """
@@ -84,7 +84,7 @@ Now we need to *use* this Entity in a real embedded system. The application‑sp
 
 This orchestration is a **Use Case**. It depends on the Entity and on **abstractions** for the hardware it needs (sensor, heater output). It does not depend on concrete GPIO or ADC drivers.
 
-We first define the interfaces that the Use Case needs (these are owned by the Use Case layer):
+We *first define the interfaces that the Use Case* needs (these are owned by the Use Case layer):
 
 ```python
 # use_case/interfaces.py

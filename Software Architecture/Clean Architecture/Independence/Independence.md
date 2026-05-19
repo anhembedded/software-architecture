@@ -1,7 +1,7 @@
 ### 📘 Chapter Summary: “”
 
 #### 1. The Four Things a Good Architecture Must Support
-1. **[[Screaming Architecture]]** – the intent of the system must be plainly visible in the structure.
+1. **[[Software Architecture/Screaming Architecture]]** – the intent of the system must be plainly visible in the structure.
 2. **[[Operation]]** – throughput, response time, and processing needs must be supported.
 3. **Development** – team structure and independent work must be facilitated (Conway’s law).
 4. **Deployment** – the system should be **immediately deployable** after build.
@@ -9,7 +9,7 @@
 All of these are balanced by **leaving as many options open as possible, for as long as possible**.
 
 ---
-#### 2. [[Screaming Architecture]]: Expose, Don’t Just Support
+#### 2. [[Software Architecture/Screaming Architecture]]: Expose, Don’t Just Support
 - Architecture can’t force correct behavior, but it can **clarify and expose** the system’s intent.
 - A shopping cart app with good architecture **looks like a shopping cart app** – use cases are first‑class, top‑level entities with descriptive names.
 - This is the “Screaming Architecture” idea: the structure screams the intent.

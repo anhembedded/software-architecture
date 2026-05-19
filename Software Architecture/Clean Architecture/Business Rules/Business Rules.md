@@ -94,9 +94,9 @@ The entity is **unsullied** by any external concerns.
 
 ---
 
-## 2. Application‑Specific [[Business Rules]]: [[Screaming Architecture]]
+## 2. Application‑Specific [[Business Rules]]: [[Software Architecture/Screaming Architecture]]
 
-Not all business rules are critical in the manual sense. Some rules define how an automated system operates—they make or save money only through the automation. These are **application‑specific [[business rules]]** and are captured in **[[Screaming Architecture]]**.
+Not all business rules are critical in the manual sense. Some rules define how an automated system operates—they make or save money only through the automation. These are **application‑specific [[business rules]]** and are captured in **[[Software Architecture/Screaming Architecture]]**.
 
 A Use Case describes:
 - The input provided by the user
