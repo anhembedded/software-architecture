@@ -15,8 +15,8 @@ All examples are in Python, but the same principles apply in any language.
 
 The idea is simple: split a module into two parts.
 
-- **Humble Object** – contains the **hard‑to‑test** behaviour, stripped to its bare minimum. It does almost nothing except move data to/from a difficult external interface (GUI, database, network).
-- **Testable Object** – contains all the **easy‑to‑test** behaviour that was removed from the humble part. This object has no knowledge of the difficult external world.
+- **Humble Object** – contains the **hard‑to‑test** behavior, stripped to its bare minimum. It does almost nothing except move data to/from a difficult external interface (GUI, database, network).
+- **Testable Object** – contains all the **easy‑to‑test** behavior that was removed from the humble part. This object has no knowledge of the difficult external world.
 
 By separating the two, we can write fast, reliable unit tests for the testable part, and the humble part is so simple that we trust it by inspection.
 
@@ -26,8 +26,8 @@ By separating the two, we can write fast, reliable unit tests for the testable p
 
 Graphical user interfaces are notoriously hard to test—you can’t easily write a test that checks what pixels appear on screen. The Humble Object pattern solves this with a **Presenter** and a **View**.
 
-- **View** – the humble object. It receives a **ViewModel** (a simple data structure of strings, booleans, and enums) and blindly transfers that data to the screen. It contains no logic.
-- **Presenter** – the testable object. It receives domain data (e.g., `Date`, `Currency` objects) from the use case and formats it into the ViewModel. All decisions about formatting, which buttons to enable, which colours to use, are made here.
+- **View** – the humble object. It receives a **ViewModel** (a simple data structure of strings, Booleans, and Enums) and blindly transfers that data to the screen. It contains no logic.
+- **Presenter** – the testable object. It receives domain data (e.g., `Date`, `Currency` objects) from the use case and formats it into the View Model. All decisions about formatting, which buttons to enable, which colours to use, are made here.
 
 The flow:
 
