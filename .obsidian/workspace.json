@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Architecture/Clean Architecture/Temp/Event.md",
+                "file": "English/Interview/Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Event"
+              "title": "Questions"
             }
           }
         ],
@@ -212,11 +212,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5e91878b0fd28d11",
+  "active": "5959af5caf66f4bc",
   "lastOpenFiles": [
+    "English/Interview/General/Gen.md",
+    "English/Interview/Questions.md",
+    "English/Leaning Path.md",
+    "Software Architecture/Clean Architecture/Temp/Event.md",
+    "English/Interview/General",
+    "English/Interview",
     "Software Architecture/Clean Architecture/Temp",
     "Software Architecture/Adapter.md",
-    "Software Architecture/Clean Architecture/Temp/Event.md",
     "Software Architecture/Clean Architecture/Presenters and Humble Objects/Presenters and Humble Objects.md",
     "Software Architecture/Clean Architecture/Policy and Level/Policy and Level.md",
     "English/English-Daily.md",
@@ -228,7 +233,6 @@
     "English/Natural Conversational Upgrades 2.md",
     "English/Natural Conversational Upgrades.md",
     "English/Leaving Work Early.md",
-    "English/Leaning Path.md",
     "Music/Image/Pasted image 20260517211019.png",
     "Software Architecture/Clean Architecture/Example/Section.md",
     "Software Architecture/Clean Architecture/The Clean Architecture/Crosses the Boundaries.md",
@@ -247,14 +251,10 @@
     "Software Architecture/Clean Architecture/Business Rules/Entity vs. Use Case in an Embedded PID.md",
     "Software Architecture/Clean Architecture/Screaming Architecture",
     "Software Architecture/Clean Architecture/Business Rules/Entity vs. Use Case in Embedded Systems.md",
-    "Software Architecture/Clean Architecture/Business Rules/Use Case.md",
     "Software Architecture/Clean Architecture/Business Rules/Untitled",
     "Software Architecture/Clean Architecture/Business Rules",
-    "Software Architecture/Clean Architecture/Policy and Level",
-    "Music/Image",
     "Pasted image 20260517210923.png",
     "Pasted image 20260517210941.png",
-    "Music",
     "Pyside/tick.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
