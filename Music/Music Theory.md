@@ -174,7 +174,7 @@ Theory isn’t just notes – rhythm is equally important.
 - [[Fretboard Mastery MOC]]
 - [[Improvisation MOC]]
 - [[Songwriting with Theory]]
-- [[Am]]
+- [[Music/Am]]
 - [[E]]
 - [[Dm]]
 
