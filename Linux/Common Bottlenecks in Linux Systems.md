@@ -767,8 +767,8 @@ echo "=== Scan Complete ==="
 ## Related Notes
 - [[Linux Performance Bottlenecks - Diagnosis & Debugging]]
 - [[Thrashing in Linux]]
-- [[Linux Process Lifecycle]]
+- [[Process Lifecycle]]
 - [[Linux Signals]]
-- [[File Permissions in Linux]]
+- [[File Permissions]]
 - [[NUMA Deep Dive]]
 - [[Kernel Tracing with eBPF]]

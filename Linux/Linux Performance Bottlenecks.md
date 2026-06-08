@@ -522,7 +522,7 @@ graph TB
 
 ## Related Notes
 - [[Linux Signals]]
-- [[Linux Process Lifecycle]]
+- [[Process Lifecycle]]
 - [[Kernel Tracing with eBPF]]
 - [[Linux Memory Management]]
 - [[I/O Scheduler and Block Layer]]
