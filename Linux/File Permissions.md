@@ -1,7 +1,3 @@
-Here's an Obsidian wiki note about Linux File Permissions, following the same format:
-
----
-
 # File Permissions in Linux
 
 ## Overview
@@ -616,7 +612,7 @@ find / -type d -perm -o+w ! -perm -1000 2>/dev/null  # World-writable dirs witho
 ---
 
 ## Related Notes
-- [[Linux Process Lifecycle]]
+- [[Process Lifecycle]]
 - [[SELinux and Mandatory Access Control]]
 - [[File System Internals]]
 - [[User and Group Management]]

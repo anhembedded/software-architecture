@@ -547,7 +547,7 @@ echo 131072 > /proc/sys/vm/min_free_kbytes  # 128MB reserve
 
 ## Related Notes
 - [[Linux Performance Bottlenecks]]
-- [[Linux Process Lifecycle]]
+- [[Process Lifecycle]]
 - [[Linux Memory Management]]
 - [[OOM Killer Deep Dive]]
 - [[Swap Management in Linux]]

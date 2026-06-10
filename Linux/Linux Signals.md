@@ -183,7 +183,7 @@ int main() {
 
 ## Related Notes
 - [[IPC Overview]]
-- [[Linux Process Lifecycle]]
+- [[Process Lifecycle]]
 - [[Kernel Signal Implementation]]
 - [[Real-time Signals]]
 - [[Event Loop and Signals]]
