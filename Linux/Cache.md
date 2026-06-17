@@ -1,10 +1,10 @@
-# Chapter 3: The Linux Page Cache Architecture
+# The Linux Page Cache Architecture
 
 In the Linux operating system, the Page Cache is a fundamental subsystem designed to bridge the massive performance disparity between CPU computation speeds and non-volatile storage access latencies.
 
 ---
 
-## 3.1 The Volatile-Nonvolatile Performance Gap
+## The Volatile-Nonvolatile Performance Gap
 
 The core design principle behind the Page Cache is simple: **Physical storage is a system bottleneck by definition.** When a CPU executes operations, it accesses system registers and L1/L2/L3 hardware caches at speeds measured in nanoseconds. Physical RAM operates in tens of nanoseconds. In contrast, non-volatile storage—even modern NVMe solid-state drives—operates in microseconds or milliseconds.
 
@@ -12,7 +12,7 @@ Without an intermediary caching layer, every file read/write instruction would b
 
 ---
 
-## 3.2 Dynamic Memory Allocation and the "Free RAM" Fallacy
+## Dynamic Memory Allocation and the "Free RAM" Fallacy
 
 New Linux systems administrators often observe that running servers appear to have almost zero "free" memory, assuming the system is running out of resources. This is a deliberate, algorithmic design choice.
 
@@ -38,11 +38,11 @@ The kernel dynamically claims nearly all unallocated physical memory frames to s
 
 ---
 
-## 3.3 The Core Mechanisms: Reads and Writes
+## The Core Mechanisms: Reads and Writes
 
 The Page Cache intercepts all standard file I/O operations transparently below the Virtual File System (VFS) layer.
 
-### 1. Read Operations (Page Hits vs. Page Misses)
+### Read Operations (Page Hits vs. Page Misses)
 
 When a user-space process invokes a `read()` system call, the kernel does not query the storage hardware driver directly. Instead, it translates the file offset into a specific **Page Index** (typically $4\text{ KB}$ blocks) and searches the Page Cache radix tree.
 
@@ -71,7 +71,7 @@ When a user-space process invokes a `read()` system call, the kernel does not qu
 * **Cache Hit:** If the requested page frame is present in RAM, the Memory Management Unit (MMU) delivers the data immediately to the process context. The operation completes in nanoseconds.
 * **Cache Miss:** If the page frame is missing, execution stalls. The kernel allocates a physical memory frame, issues a synchronous block I/O instruction to the disk controller, copies the file data into the newly allocated page cache frame, and finally copies it to the process.
 
-### 2. Write Operations and "Dirty" Memory
+### Write Operations and "Dirty" Memory
 
 When a process writes data via `write()`, the kernel minimizes performance degradation by decoupling the software execution from physical storage hardware serialization.
 
@@ -86,7 +86,7 @@ However, this page is now structurally altered and marked with a specific hardwa
 
 ---
 
-## 3.4 Synchronization and Flush Daemons
+## Synchronization and Flush Daemons
 
 Because dirty pages exist only in volatile RAM, a sudden power failure would result in catastrophic data corruption. To mitigate this risk while retaining high-speed execution, the kernel relies on background flush subsystems to handle serialization asynchronously.
 
