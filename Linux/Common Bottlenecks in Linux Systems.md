@@ -48,7 +48,7 @@ graph TD
 
 ---
 
-## 1. CPU Bottleneck
+## 1. [[CPU Bottleneck]]
 
 ### What It Is
 The CPU is **fully saturated**—all cores are busy processing work, and new tasks must wait in the run queue. The system cannot process work faster than the CPU's capacity.
