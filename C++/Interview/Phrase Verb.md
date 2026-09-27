@@ -1,7 +1,7 @@
 User-defined data types.
 Different time zones.
 The overhead.
-Static [[storage duration]].
+Static [[Storage duration]].
 The entire lifetime of the program.
 Linkage.
 Performs text substitution. 
