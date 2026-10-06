@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chinese/Plan.md",
+                "file": "SoftSkills/Decision-Making/Four Steps to Effective Decisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plan"
+              "title": "Four Steps to Effective Decisions"
             }
           },
           {
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chinese/Plan.md",
+                "file": "SoftSkills/Decision-Making/Four Steps to Effective Decisions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -258,8 +258,15 @@
   },
   "active": "0b69155865138a84",
   "lastOpenFiles": [
-    "SA_Skills/key-words.md",
+    "SoftSkills/Decision-Making/Overcome Decision-Making Traps.md",
+    "SoftSkills/Decision-Making/Four Steps to Effective Decisions.md",
+    "SoftSkills/Decision-Making/Gen.md",
+    "Software Architecture/Decorator.md",
+    "SoftSkills/Decision-Making",
+    "SoftSkills",
+    "Software Architecture/Adapter.md",
     "Chinese/Plan.md",
+    "SA_Skills/key-words.md",
     "Chinese",
     "English/Phrase-Vesb/Note.md",
     "SA_Skills",
@@ -283,18 +290,11 @@
     "Linux/Common/Cmd.md",
     "Planing/Propose a solution.md",
     "Planing",
-    "Linux/Process State.md",
-    "Linux/Process Lifecycle.md",
-    "Linux/Remote Terminal.md",
-    "Linux/CPU Bottleneck.md",
-    "Linux/I_O Wait.md",
     "I",
     "Linux/Common",
     "Pyside/tick.png",
     "Linux",
     "C++/Interview/Linux",
-    "Music/Ear",
-    "English/Interview/Concepts/Storage duration",
     "Music/Image/Pasted image 20260517211019.png",
     "Software Architecture/Clean Architecture/The Clean Architecture/Pasted image 20260519212142.png",
     "Software Architecture/Clean Architecture/The Clean Architecture/Pasted image 20260519214929.png",
