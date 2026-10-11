@@ -39,3 +39,21 @@ These are two different project prioritization philosophies in software delivery
 - Helps reduce anxiety and create confidence before tackling harder tasks.
 
 In short, risk-first optimizes for learning and risk discovery, while safety-first optimizes for confidence and steady delivery.
+
+## ADR
+
+ADR stands for Architectural Decision Record.
+
+- It is a short document that records important architecture decisions made during a project.
+- It explains what decision was made, why it was made, and what alternatives were considered.
+- It helps the team understand the reasoning behind technical choices and avoid repeating past debates.
+- ADRs are especially useful in long-lived systems where architecture evolves over time.
+
+A typical ADR usually includes:
+
+- the context or problem,
+- the decision itself,
+- the consequences of the decision,
+- and any trade-offs or future considerations.
+
+ADR helps teams preserve architectural knowledge and makes it easier for new developers to understand the system.
