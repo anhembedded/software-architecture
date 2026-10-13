@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/English-Daily.md",
+                "file": "RAG/Gen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English-Daily"
+              "title": "Gen"
             }
           },
           {
@@ -172,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English/English-Daily.md",
+                "file": "RAG/Gen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -256,8 +256,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5e91878b0fd28d11",
+  "active": "0b69155865138a84",
   "lastOpenFiles": [
+    "English/English-Daily.md",
+    "RAG/Gen.md",
+    "RAG",
     "Linux/Cpu_Bottleneck.md",
     "SoftSkills/Decision-Making/Overcome Decision-Making Traps.md",
     "SoftSkills/Decision-Making/Gen.md",
@@ -268,7 +271,6 @@
     "English/Leaving Work Early.md",
     "English/Natural Conversational Upgrades 2.md",
     "English/Natural Conversational Upgrades.md",
-    "English/English-Daily.md",
     "Chinese/Plan.md",
     "SA_Skills/key-words.md",
     "Chinese",
@@ -288,13 +290,11 @@
     "C++/Interview/Concepts/Storage duration.md",
     "C++/Interview/Concepts/Linkage.md",
     "Linux/Common/Cmd.md",
-    "Planing/Propose a solution.md",
     "Planing",
     "I",
     "Linux/Common",
     "Pyside/tick.png",
     "Linux",
-    "C++/Interview/Linux",
     "Music/Image/Pasted image 20260517211019.png",
     "Software Architecture/Clean Architecture/The Clean Architecture/Pasted image 20260519212142.png",
     "Software Architecture/Clean Architecture/The Clean Architecture/Pasted image 20260519214929.png",
