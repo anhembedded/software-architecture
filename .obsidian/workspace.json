@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 459
   },
   "right": {
     "id": "8a061b600ba668d0",
@@ -270,7 +270,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5e91878b0fd28d11",
+  "active": "07dc3a936c96d75c",
   "lastOpenFiles": [
     "SoftSkills/Thinking/Example/RAG 2.md",
     "SoftSkills/Thinking/Example/RAG.md",

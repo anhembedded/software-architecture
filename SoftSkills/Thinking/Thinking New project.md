@@ -114,13 +114,13 @@ These are reasonable questions, but **not the most important ones**. Before figu
 
 ### 3.1 The Five Questions
 
-| Question            | What you need to determine                                         |
-| ------------------- | ------------------------------------------------------------------ |
-| ❓ **Why?**          | Why does this project exist? What is the current problem?          |
-| 🎁 **What?**        | What is the concrete output to deliver?                            |
-| 🔲 **Scope?**       | What is your responsibility, and what is not?                      |
-| 🚧 **Constraints?** | Deadline, hardware, OS, RAM, CPU, compatibility, coding standards? |
-| 🏁 **Done?**        | What condition proves the project is complete?                     |
+|Question|What you need to determine|
+|---|---|
+|❓ **Why?**|Why does this project exist? What is the current problem?|
+|🎁 **What?**|What is the concrete output to deliver?|
+|🔲 **Scope?**|What is your responsibility, and what is not?|
+|🚧 **Constraints?**|Deadline, hardware, OS, RAM, CPU, compatibility, coding standards?|
+|🏁 **Done?**|What condition proves the project is complete?|
 
 **Example:** the boss asks you to build a service on embedded Linux that receives data from a peripheral device. Don't just write the requirement as _"Implement communication service"_. Clarify:
 
