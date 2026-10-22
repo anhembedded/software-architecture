@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftSkills/Thinking/Example/RAG.md",
+                "file": "SoftSkills/New_Project/Thinking frameworks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG"
+              "title": "Thinking frameworks"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SoftSkills/Thinking/Example/RAG.md",
+                "file": "SoftSkills/New_Project/Thinking frameworks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -272,12 +272,20 @@
   "active": "07dc3a936c96d75c",
   "lastOpenFiles": [
     "SoftSkills/Thinking/Thinking frameworks.md",
+    "SoftSkills/Project-Management/Project-Definition.md",
+    "SoftSkills/Project-Management/Definition.md",
+    "SoftSkills/Project-Management/Defination.md",
+    "SoftSkills/New_Project/Thinking frameworks.md",
+    "SoftSkills/Project-Management",
+    "Pasted image 20261019215345.png",
+    "SoftSkills/New.md",
+    "SoftSkills/New_Project",
+    "SoftSkills/Planing/Propose a solution.md",
     "SoftSkills/Thinking/Example/RAG.md",
     "SoftSkills/Thinking/Example",
     "SoftSkills/Decision-Making/Four Steps to Effective Decisions.md",
     "SoftSkills/Decision-Making/Gen.md",
     "SoftSkills/Decision-Making/Overcome Decision-Making Traps.md",
-    "SoftSkills/Planing/Propose a solution.md",
     "SA_Skills/key-words.md",
     "SA_Skills/Untitled.md",
     "Linux/I_O Wait.md",
@@ -300,13 +308,6 @@
     "SoftSkills",
     "English/Leaning Path.md",
     "English/Leaving Work Early.md",
-    "English/Natural Conversational Upgrades 2.md",
-    "English/Natural Conversational Upgrades.md",
-    "Chinese/Plan.md",
-    "Chinese",
-    "English/Phrase-Vesb/Note.md",
-    "SA_Skills",
-    "English/Phrase-Vesb/Come forward.md",
     "Pyside/tick.png",
     "Music/Image/Pasted image 20260517211019.png",
     "Software Architecture/Clean Architecture/The Clean Architecture/Pasted image 20260519212142.png",
