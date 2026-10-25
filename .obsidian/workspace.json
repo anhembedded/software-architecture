@@ -39,10 +39,14 @@
             "id": "31a55ddef742082f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SoftSkills/New_Project/04 Plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "04 Plan"
             }
           },
           {
@@ -154,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SoftSkills/New_Project/04 Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -238,6 +243,12 @@
   },
   "active": "31a55ddef742082f",
   "lastOpenFiles": [
+    "UnitTest/j",
+    "SoftSkills/New_Project/03 De-risk.md",
+    "SoftSkills/New_Project/02 Discover.md",
+    "SoftSkills/New_Project/01 Clarify.md",
+    "SoftSkills/Project-Management/Project-Definition.md",
+    "SoftSkills/Project-Management/EPIC-047_CHARTER.md",
     "SoftSkills/New_Project/Glossary.md",
     "SoftSkills/New_Project/Risk Register.md",
     "SoftSkills/New_Project/Technical Spike Template.md",
@@ -250,10 +261,7 @@
     "SoftSkills/New_Project/06 Validate.md.tmp.26116.3f837dcaaf3d",
     "SoftSkills/New_Project/05 Implement.md",
     "SoftSkills/New_Project/04 Plan.md",
-    "SoftSkills/New_Project/03 De-risk.md",
-    "SoftSkills/New_Project/02 Discover.md",
     "SoftSkills/New_Project/02 Discover.md.tmp.26116.2b8adc12474c",
-    "SoftSkills/New_Project/01 Clarify.md",
     "SoftSkills/New_Project/PMBOK Mapping.md",
     "SoftSkills/New_Project/Example/RAG.md",
     "SoftSkills/New_Project/Example/RAG 2.md",
@@ -264,9 +272,6 @@
     "SoftSkills/Thinking/Thinking New project.md",
     "SoftSkills/Thinking/Example/RAG 2.md",
     "SoftSkills/Thinking/Thinking frameworks.md",
-    "SoftSkills/Project-Management/Project-Definition.md",
-    "SoftSkills/Project-Management/Definition.md",
-    "SoftSkills/Project-Management/Defination.md",
     "SoftSkills/Project-Management",
     "Pasted image 20261019215345.png",
     "SoftSkills/New_Project",

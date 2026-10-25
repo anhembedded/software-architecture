@@ -56,3 +56,6 @@ Thumbs.db
 *.tmp
 *.temp
 *.log
+
+.obsidian/
+.cache/
