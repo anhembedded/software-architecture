@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SoftSkills/Decision-Making/Four Steps to Effective Decisions.md",
+                "file": "SoftSkills/DataAssert/Data Check.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Four Steps to Effective Decisions"
+              "title": "Data Check"
             }
           },
           {
@@ -256,8 +256,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5e91878b0fd28d11",
+  "active": "5959af5caf66f4bc",
   "lastOpenFiles": [
+    "SoftSkills/Decision-Making/Four Steps to Effective Decisions.md",
+    "SoftSkills/DataAssert/Data Check.md",
+    "SoftSkills/DataAssert",
     "Lang/English/28-day/Day-1/Main.md",
     "SA_Skills/Docs/Module.md",
     "SA_Skills/key-words.md",
@@ -269,7 +272,6 @@
     "Lang/English/28-day/Day-1/Morning.md",
     "Lang/English/28-day/Day-1/Assert.md",
     "Lang/English/28-day/Day-1/Night.md",
-    "SoftSkills/Decision-Making/Four Steps to Effective Decisions.md",
     "SoftSkills/Thinking/Thinking New project.md",
     "Project-Management/New_Project/Example/RAG.md",
     "Project-Management/New_Project/Example/RAG 2.md",
@@ -285,7 +287,6 @@
     "Project-Management/New_Project/08 Pitfalls.md",
     "Project-Management/New_Project/07 Approaches.md",
     "Project-Management/New_Project/06 Validate.md",
-    "Project-Management/New_Project/05 Implement.md",
     "Project-Management/New_Project",
     "Project-Management",
     "Tech/Pyside/DialogsAndAlerts/DialogsAndAlerts.py",
@@ -293,7 +294,6 @@
     "Tech/Linux/ItShowTime/main_sys.c",
     "Tech/Linux/ItShowTime/CMakeLists.txt",
     "Tech/C++/Interview/Linux",
-    "Tech/C++/Interview/General",
     "Tech/Pyside/tick.png",
     "Tech/Linux/image.png",
     "Pyside/tick.png",
