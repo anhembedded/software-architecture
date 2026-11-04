@@ -1,0 +1,929 @@
+##### BUOI 1 (20 cau moi, 0 cau on) #####
+I've been meaning to call my parents.
+I ended up missing the bus.
+Then, I started feeling better.
+I tried out a new game.
+I usually spend my evenings reading books before bed.
+Then, it began to rain.
+Once in a while, I meet old friends.
+I'm hoping to save more money.
+Most of the time, I stay busy.
+Once in a while, I stay up late.
+Most of the time, I work from home.
+Horror movies are not really my thing.
+I've recently taken up running.
+I spent most of the day studying.
+Eventually, we found the answer.
+Then, everyone started laughing.
+I'm really into science fiction.
+I tried out a fitness app.
+Then, we went home.
+I'm usually into action movies.
+Eventually, we found the answer.
+I usually spend my evenings reading books before bed.
+I'm hoping to save more money.
+I tried out a fitness app.
+I'm usually into action movies.
+I've recently taken up running.
+Then, I started feeling better.
+Then, we went home.
+Once in a while, I meet old friends.
+I spent most of the day studying.
+Then, it began to rain.
+Most of the time, I work from home.
+Horror movies are not really my thing.
+I'm really into science fiction.
+I ended up missing the bus.
+Once in a while, I stay up late.
+I've been meaning to call my parents.
+Then, everyone started laughing.
+I tried out a new game.
+Most of the time, I stay busy.
+
+##### BUOI 2 (20 cau moi, 20 cau on) #####
+Then, I understood the lesson.
+We stayed home all day. It was pretty chill.
+I went out with my classmates.
+I might take a day off.
+I'm planning on studying tonight.
+I'm still getting the hang of cooking.
+I tried out a new café.
+I might watch a movie tonight.
+I usually spend my evenings talking with friends.
+At first, I wasn't interested.
+After a while, we became friends.
+I spent most of the day working.
+I'm usually into outdoor activities.
+I spent most of the day cleaning.
+I'm launching a small business. We'll see how it goes.
+In the end, I bought the laptop.
+I might order some food.
+At first, I didn't understand.
+After a while, the pain disappeared.
+I've been meaning to exercise more.
+I've recently taken up running.
+I tried out a fitness app.
+Once in a while, I stay up late.
+I'm usually into action movies.
+Most of the time, I stay busy.
+Most of the time, I work from home.
+Then, I started feeling better.
+I usually spend my evenings reading books before bed.
+Eventually, we found the answer.
+Then, everyone started laughing.
+Horror movies are not really my thing.
+I'm really into science fiction.
+I've been meaning to call my parents.
+Then, it began to rain.
+I ended up missing the bus.
+Then, we went home.
+Once in a while, I meet old friends.
+I tried out a new game.
+I spent most of the day studying.
+I'm hoping to save more money.
+At first, I didn't understand.
+I might take a day off.
+In the end, I bought the laptop.
+I might watch a movie tonight.
+After a while, the pain disappeared.
+I tried out a new café.
+We stayed home all day. It was pretty chill.
+I spent most of the day working.
+I'm still getting the hang of cooking.
+Then, I understood the lesson.
+I'm launching a small business. We'll see how it goes.
+I spent most of the day cleaning.
+After a while, we became friends.
+I might order some food.
+I'm usually into outdoor activities.
+I went out with my classmates.
+I'm planning on studying tonight.
+At first, I wasn't interested.
+I've been meaning to exercise more.
+I usually spend my evenings talking with friends.
+
+##### BUOI 3 (20 cau moi, 40 cau on) #####
+Camping is not really my thing.
+I've been meaning to clean my room.
+I'm thinking of buying a new phone.
+I'm really into learning languages.
+I spent most of the day traveling.
+I tend to wake up early.
+I ended up watching the entire series.
+I tried out an online course.
+I don't really feel like watching TV.
+I'm still getting the hang of programming.
+In the end, we stayed home.
+Shopping is not really my thing.
+Once in a while, I watch a movie.
+I might go out later.
+I usually spend my evenings playing video games.
+I went out with my coworkers after work.
+I'm trying a new diet. We'll see how it goes.
+I've recently taken up photography.
+I'm thinking of learning Korean.
+I ended up buying a new laptop.
+I'm really into science fiction.
+We stayed home all day. It was pretty chill.
+I might watch a movie tonight.
+Once in a while, I stay up late.
+I spent most of the day cleaning.
+Then, it began to rain.
+I went out with my classmates.
+I spent most of the day working.
+Eventually, we found the answer.
+Then, everyone started laughing.
+I'm hoping to save more money.
+I tried out a new game.
+I've recently taken up running.
+Most of the time, I work from home.
+I might order some food.
+I usually spend my evenings reading books before bed.
+At first, I wasn't interested.
+Most of the time, I stay busy.
+I've been meaning to exercise more.
+In the end, I bought the laptop.
+I'm still getting the hang of cooking.
+After a while, we became friends.
+At first, I didn't understand.
+I tried out a fitness app.
+I ended up missing the bus.
+I'm usually into action movies.
+Then, we went home.
+Then, I understood the lesson.
+I'm usually into outdoor activities.
+Once in a while, I meet old friends.
+I usually spend my evenings talking with friends.
+I spent most of the day studying.
+I've been meaning to call my parents.
+Then, I started feeling better.
+I tried out a new café.
+I'm planning on studying tonight.
+After a while, the pain disappeared.
+I might take a day off.
+Horror movies are not really my thing.
+I'm launching a small business. We'll see how it goes.
+I usually spend my evenings playing video games.
+I'm trying a new diet. We'll see how it goes.
+Shopping is not really my thing.
+I tend to wake up early.
+I ended up watching the entire series.
+I'm thinking of buying a new phone.
+I went out with my coworkers after work.
+I don't really feel like watching TV.
+I might go out later.
+I'm really into learning languages.
+Camping is not really my thing.
+Once in a while, I watch a movie.
+I ended up buying a new laptop.
+I tried out an online course.
+I'm thinking of learning Korean.
+I've recently taken up photography.
+In the end, we stayed home.
+I spent most of the day traveling.
+I'm still getting the hang of programming.
+I've been meaning to clean my room.
+
+##### BUOI 4 (20 cau moi, 40 cau on) #####
+I've recently taken up meditation.
+After a while, I felt more confident.
+I decided to try making my own coffee.
+I've been getting into fitness and exercise.
+I don't really feel like working overtime.
+I spent time at the park. It was pretty chill.
+I'm planning on exercising regularly.
+I'm thinking of moving to another city.
+I usually spend my evenings learning English online.
+I went out with my cousin on Saturday.
+In the end, we had a great time.
+I'm moving to a new apartment. We'll see how it goes.
+Eventually, everything worked out.
+Most of the time, I listen to music.
+I'm still getting the hang of speaking English.
+I'm usually into technology.
+I'm planning to learn Python.
+After a while, I got used to it.
+I'm really into technology.
+Most of the time, I eat healthy food.
+I went out with my classmates.
+I've recently taken up photography.
+In the end, we stayed home.
+I don't really feel like watching TV.
+Once in a while, I watch a movie.
+I spent most of the day working.
+I've been meaning to clean my room.
+After a while, we became friends.
+After a while, the pain disappeared.
+At first, I wasn't interested.
+I'm still getting the hang of programming.
+In the end, I bought the laptop.
+Camping is not really my thing.
+I'm thinking of learning Korean.
+I tried out a new café.
+I spent most of the day cleaning.
+I've been meaning to exercise more.
+I'm planning on studying tonight.
+I ended up buying a new laptop.
+I'm still getting the hang of cooking.
+At first, I didn't understand.
+Then, I understood the lesson.
+I'm really into learning languages.
+I might watch a movie tonight.
+I might take a day off.
+I went out with my coworkers after work.
+I tried out an online course.
+I might order some food.
+I tend to wake up early.
+I usually spend my evenings talking with friends.
+I might go out later.
+I'm trying a new diet. We'll see how it goes.
+I spent most of the day traveling.
+I'm launching a small business. We'll see how it goes.
+I usually spend my evenings playing video games.
+I'm thinking of buying a new phone.
+We stayed home all day. It was pretty chill.
+Shopping is not really my thing.
+I ended up watching the entire series.
+I'm usually into outdoor activities.
+I'm moving to a new apartment. We'll see how it goes.
+Eventually, everything worked out.
+I spent time at the park. It was pretty chill.
+I'm planning on exercising regularly.
+After a while, I felt more confident.
+I'm planning to learn Python.
+I've recently taken up meditation.
+I'm really into technology.
+I'm thinking of moving to another city.
+I'm usually into technology.
+Most of the time, I eat healthy food.
+I don't really feel like working overtime.
+In the end, we had a great time.
+Most of the time, I listen to music.
+I usually spend my evenings learning English online.
+I'm still getting the hang of speaking English.
+I've been getting into fitness and exercise.
+I decided to try making my own coffee.
+I went out with my cousin on Saturday.
+After a while, I got used to it.
+
+##### BUOI 5 (20 cau moi, 60 cau on) #####
+I'm really into basketball.
+I don't really feel like going out.
+I tend to work better at night.
+The party wasn't crowded. It was pretty chill.
+I'm hoping to improve my English.
+In the end, it was worth it.
+I'm really into traveling.
+I'm planning on visiting my grandparents.
+Eventually, she agreed to come.
+I'm planning to visit my family soon.
+Reality TV is not really my thing.
+I've recently taken up gardening.
+I'm hoping to get a promotion.
+I'm thinking of changing jobs.
+I might start a new project.
+I decided to try yoga this month.
+I'm still getting the hang of driving.
+I'm starting a new job. We'll see how it goes.
+Once in a while, I eat fast food.
+I've been meaning to read that book.
+Once in a while, I watch a movie.
+Shopping is not really my thing.
+I've recently taken up photography.
+After a while, I felt more confident.
+I tend to wake up early.
+In the end, we had a great time.
+I'm moving to a new apartment. We'll see how it goes.
+In the end, we stayed home.
+Camping is not really my thing.
+Then, everyone started laughing.
+I've been getting into fitness and exercise.
+I ended up missing the bus.
+I ended up buying a new laptop.
+I'm usually into technology.
+Once in a while, I stay up late.
+I might go out later.
+I've been meaning to clean my room.
+I've recently taken up running.
+I tried out a fitness app.
+I'm planning on exercising regularly.
+I'm really into learning languages.
+I'm usually into action movies.
+Most of the time, I work from home.
+I spent most of the day traveling.
+After a while, I got used to it.
+Then, it began to rain.
+I usually spend my evenings playing video games.
+I tried out a new game.
+Then, I started feeling better.
+I usually spend my evenings learning English online.
+I'm really into technology.
+I ended up watching the entire series.
+I'm still getting the hang of speaking English.
+I'm still getting the hang of programming.
+I tried out an online course.
+I'm planning to learn Python.
+Most of the time, I listen to music.
+I'm trying a new diet. We'll see how it goes.
+I decided to try making my own coffee.
+I'm thinking of buying a new phone.
+I spent time at the park. It was pretty chill.
+Horror movies are not really my thing.
+I don't really feel like working overtime.
+Then, we went home.
+I'm hoping to save more money.
+I spent most of the day studying.
+I'm thinking of learning Korean.
+I'm really into science fiction.
+I usually spend my evenings reading books before bed.
+I went out with my cousin on Saturday.
+I don't really feel like watching TV.
+I'm thinking of moving to another city.
+Eventually, we found the answer.
+I've been meaning to call my parents.
+Most of the time, I eat healthy food.
+Most of the time, I stay busy.
+Eventually, everything worked out.
+I've recently taken up meditation.
+Once in a while, I meet old friends.
+I went out with my coworkers after work.
+I've recently taken up gardening.
+I tend to work better at night.
+I'm hoping to improve my English.
+I've been meaning to read that book.
+I'm thinking of changing jobs.
+Eventually, she agreed to come.
+I decided to try yoga this month.
+The party wasn't crowded. It was pretty chill.
+Reality TV is not really my thing.
+I'm planning on visiting my grandparents.
+I don't really feel like going out.
+I'm really into basketball.
+I'm hoping to get a promotion.
+Once in a while, I eat fast food.
+I'm still getting the hang of driving.
+I'm starting a new job. We'll see how it goes.
+I'm really into traveling.
+I might start a new project.
+In the end, it was worth it.
+I'm planning to visit my family soon.
+
+##### BUOI 6 (20 cau moi, 60 cau on) #####
+At first, it seemed difficult.
+I'm planning on buying a bicycle.
+I decided to try learning Japanese.
+I decided to try waking up earlier.
+I ended up staying home all day.
+Most of the time, I walk to work.
+I've been getting into photography lately.
+I tend to drink a lot of coffee.
+I decided to try a new restaurant.
+I stayed in to finish my work.
+I spent most of the day reading.
+I've recently taken up painting.
+I'm still getting the hang of photography.
+I don't really feel like cooking today.
+At first, I felt nervous.
+Eventually, I finished the project.
+I don't really feel like talking right now.
+I ended up enjoying the event.
+I'm learning Spanish. We'll see how it goes.
+I'm usually into indie music.
+I'm really into traveling.
+I'm still getting the hang of speaking English.
+After a while, we became friends.
+I spent time at the park. It was pretty chill.
+After a while, I felt more confident.
+In the end, I bought the laptop.
+Once in a while, I eat fast food.
+I'm really into basketball.
+In the end, we had a great time.
+I'm planning on visiting my grandparents.
+I decided to try making my own coffee.
+At first, I wasn't interested.
+I'm hoping to get a promotion.
+I'm still getting the hang of driving.
+I went out with my classmates.
+I've been meaning to read that book.
+I'm planning on studying tonight.
+I might order some food.
+At first, I didn't understand.
+I've been getting into fitness and exercise.
+I might start a new project.
+I might take a day off.
+I spent most of the day working.
+I usually spend my evenings talking with friends.
+Most of the time, I listen to music.
+I'm thinking of changing jobs.
+I'm usually into technology.
+Eventually, everything worked out.
+I'm planning on exercising regularly.
+I tend to work better at night.
+I'm thinking of moving to another city.
+I'm starting a new job. We'll see how it goes.
+I'm hoping to improve my English.
+I'm planning to visit my family soon.
+I don't really feel like going out.
+I spent most of the day cleaning.
+I've recently taken up gardening.
+I'm usually into outdoor activities.
+I went out with my cousin on Saturday.
+After a while, the pain disappeared.
+I might watch a movie tonight.
+Reality TV is not really my thing.
+We stayed home all day. It was pretty chill.
+Eventually, she agreed to come.
+Most of the time, I eat healthy food.
+I'm planning to learn Python.
+I've been meaning to exercise more.
+I'm launching a small business. We'll see how it goes.
+I'm still getting the hang of cooking.
+After a while, I got used to it.
+I've recently taken up meditation.
+I usually spend my evenings learning English online.
+Then, I understood the lesson.
+I'm moving to a new apartment. We'll see how it goes.
+I don't really feel like working overtime.
+I tried out a new café.
+I'm really into technology.
+The party wasn't crowded. It was pretty chill.
+In the end, it was worth it.
+I decided to try yoga this month.
+I'm still getting the hang of photography.
+I ended up staying home all day.
+I'm planning on buying a bicycle.
+I decided to try waking up earlier.
+I tend to drink a lot of coffee.
+I stayed in to finish my work.
+I've been getting into photography lately.
+I spent most of the day reading.
+Most of the time, I walk to work.
+I decided to try learning Japanese.
+At first, I felt nervous.
+I've recently taken up painting.
+I don't really feel like cooking today.
+I don't really feel like talking right now.
+I'm usually into indie music.
+I ended up enjoying the event.
+Eventually, I finished the project.
+At first, it seemed difficult.
+I'm learning Spanish. We'll see how it goes.
+I decided to try a new restaurant.
+
+##### BUOI 7 (20 cau moi, 60 cau on) #####
+I stayed in and watched movies.
+Eventually, I reached my goal.
+I went out with my family for dinner.
+In the end, they won the game.
+I've been getting into learning new languages.
+Loud parties are not really my thing.
+I'm planning to start a new hobby.
+I've been getting into hiking on weekends.
+I'm planning on taking a vacation.
+I'm thinking of starting a business.
+I went out with my friends last night.
+I've been meaning to learn coding.
+I'm planning to travel next year.
+I'm hoping to travel abroad.
+I'm usually into self-improvement books.
+At first, everything felt confusing.
+The weekend was quiet. It was pretty chill.
+I usually spend my evenings watching YouTube videos.
+I stayed in and relaxed.
+I stayed in because it was raining.
+I'm thinking of learning Korean.
+I'm planning on visiting my grandparents.
+I've recently taken up photography.
+I'm learning Spanish. We'll see how it goes.
+I'm hoping to get a promotion.
+I'm usually into indie music.
+I'm trying a new diet. We'll see how it goes.
+In the end, it was worth it.
+I'm really into traveling.
+I don't really feel like cooking today.
+Most of the time, I walk to work.
+I spent most of the day reading.
+At first, I felt nervous.
+Reality TV is not really my thing.
+I went out with my coworkers after work.
+I tend to drink a lot of coffee.
+I decided to try yoga this month.
+I tend to work better at night.
+At first, it seemed difficult.
+I tend to wake up early.
+I'm planning to visit my family soon.
+I've been getting into photography lately.
+I ended up buying a new laptop.
+I don't really feel like watching TV.
+I might go out later.
+Eventually, I finished the project.
+I decided to try learning Japanese.
+I'm really into learning languages.
+I decided to try waking up earlier.
+I tried out an online course.
+I've recently taken up painting.
+The party wasn't crowded. It was pretty chill.
+I'm still getting the hang of driving.
+I decided to try a new restaurant.
+I've recently taken up gardening.
+Once in a while, I watch a movie.
+Shopping is not really my thing.
+I'm still getting the hang of programming.
+I ended up enjoying the event.
+I'm thinking of changing jobs.
+I'm planning on buying a bicycle.
+Eventually, she agreed to come.
+In the end, we stayed home.
+I'm really into basketball.
+I ended up staying home all day.
+I'm thinking of buying a new phone.
+Once in a while, I eat fast food.
+I've been meaning to read that book.
+Camping is not really my thing.
+I spent most of the day traveling.
+I stayed in to finish my work.
+I usually spend my evenings playing video games.
+I'm hoping to improve my English.
+I don't really feel like going out.
+I'm starting a new job. We'll see how it goes.
+I ended up watching the entire series.
+I might start a new project.
+I'm still getting the hang of photography.
+I don't really feel like talking right now.
+I've been meaning to clean my room.
+At first, everything felt confusing.
+I stayed in and relaxed.
+I've been getting into learning new languages.
+I'm planning to travel next year.
+I stayed in and watched movies.
+I'm planning on taking a vacation.
+Loud parties are not really my thing.
+I'm usually into self-improvement books.
+I've been meaning to learn coding.
+I'm thinking of starting a business.
+I'm planning to start a new hobby.
+I stayed in because it was raining.
+I'm hoping to travel abroad.
+Eventually, I reached my goal.
+I usually spend my evenings watching YouTube videos.
+I went out with my family for dinner.
+I've been getting into hiking on weekends.
+In the end, they won the game.
+The weekend was quiet. It was pretty chill.
+I went out with my friends last night.
+
+##### BUOI 8 (10 cau moi, 80 cau on) #####
+Once in a while, I go to the beach.
+I've been getting into cooking at home.
+I stayed in all weekend.
+I tried out a different hairstyle.
+I tend to stay quiet in groups.
+We just talked and relaxed. It was pretty chill.
+I'm planning to save more money.
+I tend to overthink things.
+After a while, the weather improved.
+I'm hoping to make new friends.
+I spent time at the park. It was pretty chill.
+I tried out a fitness app.
+I decided to try waking up earlier.
+I stayed in because it was raining.
+I'm usually into technology.
+I'm usually into self-improvement books.
+I've recently taken up painting.
+I'm moving to a new apartment. We'll see how it goes.
+I'm thinking of moving to another city.
+I've been meaning to call my parents.
+Most of the time, I work from home.
+I've been getting into fitness and exercise.
+I'm planning to learn Python.
+I usually spend my evenings reading books before bed.
+I'm still getting the hang of photography.
+I'm thinking of starting a business.
+I tried out a new game.
+Then, everyone started laughing.
+I've recently taken up meditation.
+I stayed in and watched movies.
+I went out with my friends last night.
+I've been getting into learning new languages.
+I've been getting into hiking on weekends.
+I'm usually into action movies.
+Then, it began to rain.
+Then, we went home.
+The weekend was quiet. It was pretty chill.
+I'm still getting the hang of speaking English.
+I spent most of the day studying.
+I usually spend my evenings watching YouTube videos.
+I've recently taken up running.
+Most of the time, I stay busy.
+At first, it seemed difficult.
+After a while, I felt more confident.
+Eventually, everything worked out.
+Eventually, I finished the project.
+I don't really feel like working overtime.
+I'm planning to start a new hobby.
+I don't really feel like talking right now.
+I'm hoping to travel abroad.
+In the end, we had a great time.
+Once in a while, I meet old friends.
+I'm usually into indie music.
+I usually spend my evenings learning English online.
+Most of the time, I listen to music.
+I'm planning on exercising regularly.
+Loud parties are not really my thing.
+Then, I started feeling better.
+At first, I felt nervous.
+Eventually, I reached my goal.
+I'm really into science fiction.
+I went out with my cousin on Saturday.
+I decided to try learning Japanese.
+I'm planning to travel next year.
+I stayed in to finish my work.
+I decided to try making my own coffee.
+Most of the time, I walk to work.
+I decided to try a new restaurant.
+I spent most of the day reading.
+I went out with my family for dinner.
+I'm hoping to save more money.
+I'm learning Spanish. We'll see how it goes.
+Once in a while, I stay up late.
+I stayed in and relaxed.
+I tend to drink a lot of coffee.
+Eventually, we found the answer.
+I don't really feel like cooking today.
+I'm planning on taking a vacation.
+I've been getting into photography lately.
+Most of the time, I eat healthy food.
+After a while, I got used to it.
+Horror movies are not really my thing.
+I've been meaning to learn coding.
+In the end, they won the game.
+I ended up enjoying the event.
+I'm planning on buying a bicycle.
+At first, everything felt confusing.
+I ended up missing the bus.
+I ended up staying home all day.
+I'm really into technology.
+I'm planning to save more money.
+After a while, the weather improved.
+I'm hoping to make new friends.
+Once in a while, I go to the beach.
+I tried out a different hairstyle.
+I tend to stay quiet in groups.
+I stayed in all weekend.
+I tend to overthink things.
+I've been getting into cooking at home.
+We just talked and relaxed. It was pretty chill.
+
+##### BUOI 9 (0 cau moi, 70 cau on) #####
+I might order some food.
+The party wasn't crowded. It was pretty chill.
+I usually spend my evenings talking with friends.
+Eventually, she agreed to come.
+Eventually, I reached my goal.
+I might take a day off.
+In the end, they won the game.
+I've recently taken up gardening.
+After a while, the weather improved.
+I'm launching a small business. We'll see how it goes.
+I'm planning on studying tonight.
+I might start a new project.
+At first, I wasn't interested.
+I'm thinking of changing jobs.
+I've been meaning to exercise more.
+I'm still getting the hang of cooking.
+I tend to overthink things.
+I'm thinking of starting a business.
+At first, everything felt confusing.
+I might watch a movie tonight.
+I stayed in and relaxed.
+I stayed in because it was raining.
+I'm planning to save more money.
+I've been getting into cooking at home.
+Once in a while, I go to the beach.
+I'm really into traveling.
+After a while, the pain disappeared.
+I'm hoping to make new friends.
+I tend to stay quiet in groups.
+I stayed in all weekend.
+I'm planning to visit my family soon.
+I decided to try yoga this month.
+I went out with my classmates.
+I'm still getting the hang of driving.
+I tried out a different hairstyle.
+The weekend was quiet. It was pretty chill.
+I spent most of the day working.
+I spent most of the day cleaning.
+We stayed home all day. It was pretty chill.
+I'm hoping to get a promotion.
+I've been meaning to learn coding.
+At first, I didn't understand.
+I'm usually into self-improvement books.
+I've been meaning to read that book.
+In the end, it was worth it.
+I stayed in and watched movies.
+I went out with my family for dinner.
+I'm really into basketball.
+We just talked and relaxed. It was pretty chill.
+I'm planning to travel next year.
+Loud parties are not really my thing.
+I'm planning on taking a vacation.
+I usually spend my evenings watching YouTube videos.
+I've been getting into learning new languages.
+I don't really feel like going out.
+In the end, I bought the laptop.
+I'm hoping to travel abroad.
+I'm usually into outdoor activities.
+After a while, we became friends.
+I'm planning to start a new hobby.
+I went out with my friends last night.
+I'm planning on visiting my grandparents.
+Reality TV is not really my thing.
+I tried out a new café.
+Once in a while, I eat fast food.
+I'm hoping to improve my English.
+I'm starting a new job. We'll see how it goes.
+Then, I understood the lesson.
+I've been getting into hiking on weekends.
+I tend to work better at night.
+
+##### BUOI 10 (0 cau moi, 50 cau on) #####
+At first, I felt nervous.
+I went out with my coworkers after work.
+I don't really feel like cooking today.
+I've recently taken up photography.
+I spent most of the day reading.
+I'm planning on buying a bicycle.
+I ended up staying home all day.
+I ended up enjoying the event.
+I tried out an online course.
+I decided to try learning Japanese.
+I'm hoping to make new friends.
+In the end, we stayed home.
+I don't really feel like talking right now.
+I decided to try waking up earlier.
+Most of the time, I walk to work.
+Shopping is not really my thing.
+I tend to wake up early.
+After a while, the weather improved.
+I've been getting into cooking at home.
+Eventually, I finished the project.
+I tried out a different hairstyle.
+I usually spend my evenings playing video games.
+I'm thinking of buying a new phone.
+I'm planning to save more money.
+Camping is not really my thing.
+I'm thinking of learning Korean.
+I'm really into learning languages.
+I stayed in to finish my work.
+I've recently taken up painting.
+At first, it seemed difficult.
+I ended up watching the entire series.
+I'm still getting the hang of programming.
+I tend to drink a lot of coffee.
+I decided to try a new restaurant.
+I ended up buying a new laptop.
+I'm still getting the hang of photography.
+I'm learning Spanish. We'll see how it goes.
+I've been meaning to clean my room.
+We just talked and relaxed. It was pretty chill.
+I've been getting into photography lately.
+I stayed in all weekend.
+I'm usually into indie music.
+I spent most of the day traveling.
+I might go out later.
+I tend to stay quiet in groups.
+I tend to overthink things.
+Once in a while, I watch a movie.
+I'm trying a new diet. We'll see how it goes.
+I don't really feel like watching TV.
+Once in a while, I go to the beach.
+
+##### BUOI 11 (0 cau moi, 40 cau on) #####
+I'm planning on exercising regularly.
+I went out with my cousin on Saturday.
+I stayed in and relaxed.
+I stayed in and watched movies.
+I'm planning to start a new hobby.
+After a while, I got used to it.
+I'm usually into technology.
+Loud parties are not really my thing.
+Eventually, I reached my goal.
+In the end, we had a great time.
+I'm hoping to travel abroad.
+I've been getting into fitness and exercise.
+In the end, they won the game.
+Most of the time, I eat healthy food.
+Most of the time, I listen to music.
+Eventually, everything worked out.
+I usually spend my evenings learning English online.
+I decided to try making my own coffee.
+I've been meaning to learn coding.
+I'm planning to learn Python.
+After a while, I felt more confident.
+I've been getting into hiking on weekends.
+I've been getting into learning new languages.
+I'm thinking of moving to another city.
+I'm thinking of starting a business.
+I'm usually into self-improvement books.
+I went out with my family for dinner.
+I'm moving to a new apartment. We'll see how it goes.
+I spent time at the park. It was pretty chill.
+The weekend was quiet. It was pretty chill.
+I'm still getting the hang of speaking English.
+I'm planning on taking a vacation.
+I don't really feel like working overtime.
+I usually spend my evenings watching YouTube videos.
+I'm really into technology.
+I went out with my friends last night.
+I stayed in because it was raining.
+At first, everything felt confusing.
+I'm planning to travel next year.
+I've recently taken up meditation.
+
+##### BUOI 12 (0 cau moi, 30 cau on) #####
+Once in a while, I go to the beach.
+I'm planning on visiting my grandparents.
+I'm thinking of changing jobs.
+I don't really feel like going out.
+The party wasn't crowded. It was pretty chill.
+I tend to work better at night.
+I tend to overthink things.
+I'm hoping to improve my English.
+I'm starting a new job. We'll see how it goes.
+Eventually, she agreed to come.
+I decided to try yoga this month.
+I'm hoping to get a promotion.
+I tried out a different hairstyle.
+I tend to stay quiet in groups.
+After a while, the weather improved.
+I'm planning to visit my family soon.
+I've been meaning to read that book.
+I might start a new project.
+Reality TV is not really my thing.
+I stayed in all weekend.
+I'm planning to save more money.
+I've recently taken up gardening.
+I've been getting into cooking at home.
+In the end, it was worth it.
+I'm hoping to make new friends.
+Once in a while, I eat fast food.
+I'm really into traveling.
+I'm really into basketball.
+I'm still getting the hang of driving.
+We just talked and relaxed. It was pretty chill.
+
+##### BUOI 13 (0 cau moi, 20 cau on) #####
+At first, it seemed difficult.
+I spent most of the day reading.
+I decided to try a new restaurant.
+I've recently taken up painting.
+I stayed in to finish my work.
+I don't really feel like cooking today.
+Eventually, I finished the project.
+I'm planning on buying a bicycle.
+At first, I felt nervous.
+I ended up enjoying the event.
+I'm learning Spanish. We'll see how it goes.
+I'm still getting the hang of photography.
+I've been getting into photography lately.
+I tend to drink a lot of coffee.
+Most of the time, I walk to work.
+I ended up staying home all day.
+I decided to try learning Japanese.
+I'm usually into indie music.
+I decided to try waking up earlier.
+I don't really feel like talking right now.
+
+##### BUOI 14 (0 cau moi, 20 cau on) #####
+I've been getting into learning new languages.
+Loud parties are not really my thing.
+I've been getting into hiking on weekends.
+I went out with my friends last night.
+I stayed in and watched movies.
+I'm thinking of starting a business.
+Eventually, I reached my goal.
+I'm planning to start a new hobby.
+I'm planning on taking a vacation.
+I usually spend my evenings watching YouTube videos.
+In the end, they won the game.
+I went out with my family for dinner.
+The weekend was quiet. It was pretty chill.
+I'm planning to travel next year.
+I've been meaning to learn coding.
+I'm usually into self-improvement books.
+At first, everything felt confusing.
+I stayed in and relaxed.
+I'm hoping to travel abroad.
+I stayed in because it was raining.
+
+##### BUOI 15 (0 cau moi, 10 cau on) #####
+After a while, the weather improved.
+I stayed in all weekend.
+I tried out a different hairstyle.
+I'm planning to save more money.
+We just talked and relaxed. It was pretty chill.
+I tend to overthink things.
+I tend to stay quiet in groups.
+I'm hoping to make new friends.
+I've been getting into cooking at home.
+Once in a while, I go to the beach.
